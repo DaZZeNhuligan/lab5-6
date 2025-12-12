@@ -1,0 +1,17 @@
+# Build folder
+build/
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary test files
+test.cpp
